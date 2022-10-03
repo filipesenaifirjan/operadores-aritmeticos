@@ -1,0 +1,15 @@
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.csproj.AssemblyReference.cache
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.AssemblyInfoInputs.cache
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.AssemblyInfo.cs
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\bin\Debug\net6.0\operadores-aritmeticos.exe
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\bin\Debug\net6.0\operadores-aritmeticos.deps.json
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\bin\Debug\net6.0\operadores-aritmeticos.runtimeconfig.json
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\bin\Debug\net6.0\operadores-aritmeticos.dll
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\bin\Debug\net6.0\operadores-aritmeticos.pdb
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.dll
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\obj\Debug\net6.0\refint\operadores-aritmeticos.dll
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.pdb
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.genruntimeconfig.cache
+C:\Users\FilipedeMattosAssunç\Desktop\operadores aritmeticos e classe math\operadores-aritmeticos\obj\Debug\net6.0\ref\operadores-aritmeticos.dll
